@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My PHP Page</h1>
+        <h1>Welcome to My Website</h1>
         <p>This is a simple PHP page.</p>
         <?php
             // PHP code can be inserted here
